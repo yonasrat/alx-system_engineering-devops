@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\n $(ls)"
+echo -e "$(ls) \n"
