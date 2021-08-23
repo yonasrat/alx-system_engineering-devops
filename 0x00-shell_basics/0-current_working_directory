@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo -e "$(pwd)\n"
+=======
+pwd -P
+>>>>>>> cafb165ea9805823b501e9bc368a6e928d12cb10
